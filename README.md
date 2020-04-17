@@ -1,10 +1,10 @@
 # FirebaseEmailLogin
 **Android app implementing:**
--Firebase login via email
--Email Verification
--Profile pic changing features
--Password changing option
--Logout option
+* Firebase login via email
+* Email Verification
+* Profile pic changing features
+* Password changing option
+* Logout option
 <br>
 <br>
 <div align="center">
