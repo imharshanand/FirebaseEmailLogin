@@ -1,11 +1,13 @@
 # FirebaseEmailLogin
-Android app implementing:
-	* Firebase login via email
-	* Email Verification
-	* Profile pic changing features
-	* Password changing option
-	* Logout option
-
+**Android app implementing:**
+-Firebase login via email
+-Email Verification
+-Profile pic changing features
+-Password changing option
+-Logout option
+<br>
+<br>
+<div align="center">
 <table>
   <tr>
     <td>Register activity</td>
@@ -18,3 +20,4 @@ Android app implementing:
     <td><img src="Screenshots/Screenshot_2020-04-17-10-24-10-146_com.example.firebaseloginemail.jpg" height=480></td>
   </tr>
  </table>
+ </div>
