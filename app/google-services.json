@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "916338366815",
+    "firebase_url": "https://fir-loginemail-dc136.firebaseio.com",
+    "project_id": "fir-loginemail-dc136",
+    "storage_bucket": "fir-loginemail-dc136.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916338366815:android:ebbec9882fbf25ad323eea",
+        "android_client_info": {
+          "package_name": "com.example.firebaseloginemail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916338366815-2bitf9ukmhbe8k8rehm7d40s10sp0i0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBcBAxz2QI_NTaKu1-qF1m3H3VfChYU5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916338366815-2bitf9ukmhbe8k8rehm7d40s10sp0i0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
